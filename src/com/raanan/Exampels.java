@@ -8,7 +8,7 @@ public class Exampels {
 	}
 
 	public void example() {
-
+		String str = "";
 	}
 
 }
